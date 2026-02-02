@@ -1,3 +1,15 @@
 print(10 > 9)
 print(10 == 9)
 print(10 < 9)
+print(13 > 9)
+print(10 == 6)
+print(27 < 11)
+print(34 > 44)
+print(24 == 46)
+print(3 < 3)
+
+x = int(input())
+
+print(x > 0)
+print(x == 0)
+print(x < 0)
